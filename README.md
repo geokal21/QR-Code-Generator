@@ -52,7 +52,7 @@ qr-code-generator/
 
 ## 📸 Preview
 
-![App Screenshot]
+![App Screenshot](qrcg.png)
 
 ---
 
