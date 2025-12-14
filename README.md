@@ -26,12 +26,14 @@ Built with **HTML**, **CSS**, and **JavaScript** using the [QRCode.js](https://c
 
 ## 📂 Project Structure
 
+```
 qr-code-generator/
 │
 ├── index.html # Main HTML file
 ├── style.css # Stylesheet for layout and colors
 ├── script.js # JavaScript logic for QR generation
 └── README.md # Project documentation
+```
 
 
 ---
